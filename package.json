@@ -1,5 +1,6 @@
 {
   "name": "fcc-api-projects-boilerplate",
+  "author": "Miary G.",
   "version": "0.0.1",
   "description": "An FCC Backend Challenge",
   "main": "index.js",
